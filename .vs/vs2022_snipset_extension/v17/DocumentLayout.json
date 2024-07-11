@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pchh\\source\\repos\\vs2022_snipset_extension\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C41CC5C7-E705-4BFF-85BD-90FC67FA1A49}|vs2022_snipset_extension\\vs2022_snipset_extension.csproj|c:\\users\\pchh\\source\\repos\\vs2022_snipset_extension\\vs2022_snipset_extension\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C41CC5C7-E705-4BFF-85BD-90FC67FA1A49}|vs2022_snipset_extension\\vs2022_snipset_extension.csproj|solutionrelative:vs2022_snipset_extension\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C41CC5C7-E705-4BFF-85BD-90FC67FA1A49}|vs2022_snipset_extension\\vs2022_snipset_extension.csproj|c:\\users\\pchh\\source\\repos\\vs2022_snipset_extension\\vs2022_snipset_extension\\vs2022_snipset_extensionpackage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C41CC5C7-E705-4BFF-85BD-90FC67FA1A49}|vs2022_snipset_extension\\vs2022_snipset_extension.csproj|solutionrelative:vs2022_snipset_extension\\vs2022_snipset_extensionpackage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C41CC5C7-E705-4BFF-85BD-90FC67FA1A49}|vs2022_snipset_extension\\vs2022_snipset_extension.csproj|c:\\users\\pchh\\source\\repos\\vs2022_snipset_extension\\vs2022_snipset_extension\\vs2022_snipset_extensionpackage.vsct||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C41CC5C7-E705-4BFF-85BD-90FC67FA1A49}|vs2022_snipset_extension\\vs2022_snipset_extension.csproj|solutionrelative:vs2022_snipset_extension\\vs2022_snipset_extensionpackage.vsct||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C41CC5C7-E705-4BFF-85BD-90FC67FA1A49}|vs2022_snipset_extension\\vs2022_snipset_extension.csproj|c:\\users\\pchh\\source\\repos\\vs2022_snipset_extension\\vs2022_snipset_extension\\source.extension.vsixmanifest||{2868F8ED-DE25-439D-9F59-AD52458E9328}",
+      "RelativeMoniker": "D:0:0:{C41CC5C7-E705-4BFF-85BD-90FC67FA1A49}|vs2022_snipset_extension\\vs2022_snipset_extension.csproj|solutionrelative:vs2022_snipset_extension\\source.extension.vsixmanifest||{2868F8ED-DE25-439D-9F59-AD52458E9328}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "vs2022_snipset_extensionPackage.vsct",
+              "DocumentMoniker": "C:\\Users\\Pchh\\source\\repos\\vs2022_snipset_extension\\vs2022_snipset_extension\\vs2022_snipset_extensionPackage.vsct",
+              "RelativeDocumentMoniker": "vs2022_snipset_extension\\vs2022_snipset_extensionPackage.vsct",
+              "ToolTip": "C:\\Users\\Pchh\\source\\repos\\vs2022_snipset_extension\\vs2022_snipset_extension\\vs2022_snipset_extensionPackage.vsct",
+              "RelativeToolTip": "vs2022_snipset_extension\\vs2022_snipset_extensionPackage.vsct",
+              "ViewState": "AQIAACsAAAAAAAAAAAAAwDoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2024-07-09T06:09:00.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "vs2022_snipset_extensionPackage.cs",
+              "DocumentMoniker": "C:\\Users\\Pchh\\source\\repos\\vs2022_snipset_extension\\vs2022_snipset_extension\\vs2022_snipset_extensionPackage.cs",
+              "RelativeDocumentMoniker": "vs2022_snipset_extension\\vs2022_snipset_extensionPackage.cs",
+              "ToolTip": "C:\\Users\\Pchh\\source\\repos\\vs2022_snipset_extension\\vs2022_snipset_extension\\vs2022_snipset_extensionPackage.cs",
+              "RelativeToolTip": "vs2022_snipset_extension\\vs2022_snipset_extensionPackage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T05:59:50.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Command.cs",
+              "DocumentMoniker": "C:\\Users\\Pchh\\source\\repos\\vs2022_snipset_extension\\vs2022_snipset_extension\\Command.cs",
+              "RelativeDocumentMoniker": "vs2022_snipset_extension\\Command.cs",
+              "ToolTip": "C:\\Users\\Pchh\\source\\repos\\vs2022_snipset_extension\\vs2022_snipset_extension\\Command.cs",
+              "RelativeToolTip": "vs2022_snipset_extension\\Command.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwCIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T06:08:19.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "source.extension.vsixmanifest [Design]",
+              "DocumentMoniker": "C:\\Users\\Pchh\\source\\repos\\vs2022_snipset_extension\\vs2022_snipset_extension\\source.extension.vsixmanifest",
+              "RelativeDocumentMoniker": "vs2022_snipset_extension\\source.extension.vsixmanifest",
+              "ToolTip": "C:\\Users\\Pchh\\source\\repos\\vs2022_snipset_extension\\vs2022_snipset_extension\\source.extension.vsixmanifest [Design]",
+              "RelativeToolTip": "vs2022_snipset_extension\\source.extension.vsixmanifest [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2024-07-09T06:01:08.73Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
